@@ -52,4 +52,5 @@ def take_photo(filename='photo.jpg', quality=0.8):
     f.write(binary)
   return filename
   
+  #capture the picture using the webcm of the user and then utilize it for facial recognition
   take_photo() #Click the picture and download it 
